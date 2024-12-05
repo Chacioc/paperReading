@@ -13,3 +13,7 @@ QA-NatVer的大模型版本，跨语言跟跨数据集都不错
 [TABVER: Tabular Fact Verification with Natural Logic](https://arxiv.org/pdf/2411.01093)
 
 QA-NatVer的表格版本，拓展蕴含关系到数字计算上
+
+[LogicAsker: Evaluating and Improving the Logical Reasoning Ability of Large Language Models](https://aclanthology.org/2024.emnlp-main.128.pdf)
+
+提出一种用于评估和增强大型语言模型的逻辑推理能力的新方法。构建有针对性的演示示例作为上下文或者微调能提升LLM的推理能力（其实提升一般）
